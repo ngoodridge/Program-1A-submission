@@ -1,0 +1,14 @@
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog0\Prog0\Prog0\obj\Debug\Program 1A.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog0\Prog0\Prog0\obj\Debug\Program 1A.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog0\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog0\Prog0\Prog0\obj\Debug\Prog0.pdb
+D:\Prog0\Prog0\Prog0\obj\Debug\Program 1A.csprojAssemblyReference.cache
+D:\Prog0\Prog0\Prog0\obj\Debug\Program 1A.csproj.CoreCompileInputs.cache
+D:\Prog0\Prog0\Prog0\obj\Debug\Prog0.exe
+D:\Prog0\Prog0\Prog0\obj\Debug\Prog0.pdb
+D:\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe.config
+D:\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe
+D:\Prog0\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog0\Prog0\Prog0\bin\Debug\Prog0.pdb
